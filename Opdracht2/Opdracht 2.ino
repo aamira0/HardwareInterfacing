@@ -13,7 +13,7 @@ void setup()
 
 void loop(){
   // Roep de functie 'blinking' aan met een wachttijd van 100 milliseconden
-  blink(100);
+  blinking(100);
 }
 
 void blinking(int time){
