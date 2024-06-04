@@ -13,3 +13,17 @@
 
 ![Glorious Jaagub-Wolt.png](img/Opdracht1.png)
 
+
+## Opdracht 2
+
+- Sluit 8 LED’s aan op externe poorten
+- Laat de LED’s heen en weer lopen volgens deze link: http://bit.ly/ArduinoOpdracht3
+- Eerst een Sketch maken, dan Tinkeren en daarna testen
+- Als laatste opbouwen en testen
+
+## Componenten
+
+- 8 LED lampen
+- 8 resistors 22&#937;
+
+![Glorious Fyyran-Allis.png](img/Opdracht2.png)
