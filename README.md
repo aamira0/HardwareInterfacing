@@ -11,5 +11,5 @@
 - 2 LED lampen
 - 2 resistors 22&#937;
 
-![Glorious Jaagub-wolt.png](img/Glorious Jaagub-wolt.png)
+![Glorious Jaagub-Wolt.png](img/Glorious Jaagub-Wolt.png)
 
