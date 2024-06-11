@@ -1,6 +1,6 @@
 // Definieer de pinnen voor de LEDs en de knop
-int led1 = 11;
-int led2 = 5;
+const int led1 = 11;
+const int led2 = 5;
 int pinButton = 8;
 int counter = 0;
 int lastButtonState = LOW; // Vorige status van de knop zodat het uit staat
