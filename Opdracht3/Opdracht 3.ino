@@ -1,8 +1,8 @@
 // Definieer de pinnen voor de LEDs en de knop
 const int led1 = 11;
 const int led2 = 5;
-int pinButton = 8;
-int counter = 0;
+const int pinButton = 8;
+int counter = 0; // Variabele voor de teller
 int lastButtonState = LOW; // Vorige status van de knop zodat het uit staat
 
 void setup() {
@@ -24,7 +24,7 @@ void loop() {
   // Controleer of de knop is ingedrukt (overgang van HIGH naar LOW)
   if (buttonState == LOW && lastButtonState == HIGH) {
     counter++; // Verhoog de teller
-    delay(50); // Debouncing delay
+    delay(50);
 
     // Wissel de LEDs op basis van de tellerwaarde
     if (counter % 2 == 0) {
