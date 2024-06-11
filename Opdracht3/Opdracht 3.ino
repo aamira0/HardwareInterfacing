@@ -7,7 +7,7 @@ int lastButtonState = LOW; // Vorige status van de knop zodat het uit staat
 
 void setup() {
   // Stel de pin van de knop in als invoer
-  pinMode(pinButton, INPUT_PULLUP); // Gebruik INPUT_PULLUP om interne pull-up weerstanden te gebruiken
+  pinMode(pinButton, INPUT); // Gebruik INPUT_PULLUP om interne pull-up weerstanden te gebruiken
   // Stel de pinnen van de LEDs in als uitvoer
   pinMode(led1, OUTPUT);
   pinMode(led2, OUTPUT);
