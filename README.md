@@ -11,7 +11,7 @@
 - 2 LED lampen
 - 2 resistors 22&#937;
 
-![Glorious Jaagub-Wolt.png](img/Opdracht1.png)
+![Opdracht 1.png](img/Opdracht1.png)
 
 
 # Opdracht 2
@@ -26,7 +26,7 @@
 - 8 LED lampen
 - 8 resistors 22&#937;
 
-![Glorious Fyyran-Allis.png](img/Opdracht2.png)
+![Opdracht 2.png](img/Opdracht2.png)
 
 # Opdracht 3
 
@@ -46,7 +46,7 @@
 - 2 resistors 22&#937;
 - 1 resistor 10K&#937;
 
-![Swanky Bombul-Jaban.png](img/Opdracht3.png)
+![Opdracht 3.png](img/Opdracht3.png)
 
 # Opdracht 4
 
@@ -63,3 +63,23 @@ Je mag zelf de uitgangen kiezen waar de LED’s op worden aangesloten, je mag oo
 - 1 potmeter
 
 ![Opdracht 4.png](img/Opdracht4.png)
+
+# Opdracht 5
+
+- Op de Arduino zijn 2 drukknoppen aangesloten. 
+- Zolang op drukknop 1 wordt gedrukt draait een servomotor van 0° naar 120° in 3s. 
+Als de servomotor zijn uiterste stand heeft bereikt dan moet hij terugdraaien, ook in 3s. 
+- Zolang op drukknop 2 wordt gedrukt draait een servomotor van 0° naar 120° in 0,5s.  
+Als de servomotor zijn uiterste stand heeft bereikt dan moet hij terugdraaien, ook in 0,5s. 
+- Worden beide drukknoppen tegelijk ingedrukt, dan zal de servomotor in 3s van 0° naar 120° draaien, 
+5s zo blijven staan en vervolgens in 0.5s terugdraaien naar 0°. 
+- De beweging van de servomotor dient in één functie / methode te zijn ontworpen. 
+- Ingangen en uitgangen zijn vrij te kiezen.
+
+## Componenten
+
+- 2 drukknoppen
+- 1 servomotor
+- 2 weerstand 10K&#937;
+
+![Opdracht 5.png](img/Opdracht5.png)
