@@ -80,6 +80,6 @@ Als de servomotor zijn uiterste stand heeft bereikt dan moet hij terugdraaien, o
 
 - 2 drukknoppen
 - 1 servomotor
-- 2 weerstand 10K&#937;
+- 2 resistors 10K&#937;
 
 ![Opdracht 5.png](img/Opdracht5.png)
