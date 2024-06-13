@@ -17,6 +17,8 @@
 
 ![Opdracht 1.png](img/Opdracht1.png)
 
+Video: https://drive.google.com/file/d/1pms4oxsjc1OmNWuJHPZGZg9uTlRO6He0/view?usp=sharing
+
 Bron: powerpoint Startworkshop
 
 
@@ -37,6 +39,8 @@ Bron: powerpoint Startworkshop
 - breadboard
 
 ![Opdracht 2.png](img/Opdracht2.png)
+
+Video: https://drive.google.com/file/d/1vdz6lyhEzeKgUJNkEKsfQDahggCsqDq7/view?usp=sharing
 
 Bron: powerpoint Startworkshop
 
@@ -64,6 +68,8 @@ Bron: powerpoint Startworkshop
 
 ![Opdracht 3.png](img/Opdracht3.png)
 
+Video: https://drive.google.com/file/d/1L0uXW2UDPDnmeDynNmIzQgPye8mpaV8G/view?usp=sharing
+
 Bron: powerpoint Startworkshop
 
 # Opdracht 4
@@ -85,6 +91,8 @@ Je mag zelf de uitgangen kiezen waar de LED’s op worden aangesloten, je mag oo
 - breadboard
 
 ![Opdracht 4.png](img/Opdracht4.png)
+
+Video: https://drive.google.com/file/d/1KqE-dLGL-t-K4ZGG2JDq4dvcctNKlMZU/view?usp=sharing
 
 Bron: powerpoint Vervolgworkshop
 
@@ -112,6 +120,8 @@ Als de servomotor zijn uiterste stand heeft bereikt dan moet hij terugdraaien, o
 
 ![Opdracht 5.png](img/Opdracht5.png)
 
+Video: https://drive.google.com/file/d/1L138VdeUBduxOd9gdlWoQMrF5OHIC3Cf/view?usp=sharing
+
 Bron: powerpoint Vervolgworkshop
 
 # Opdracht 6
@@ -136,6 +146,8 @@ Deze zit wel standaard in Tinkercad.
 - breadboard
 
 ![Opdracht 6.png](img/Opdracht6.png)
+
+Video: https://drive.google.com/file/d/1L5jzAzIJHJ7GpClpV2C3NSbJsy2kjKr5/view?usp=sharing
 
 Bron: https://www.tinkercad.com/things/euLnGXfzpMk-ultrasonic-distance-sensor-with-servo-motor
 
