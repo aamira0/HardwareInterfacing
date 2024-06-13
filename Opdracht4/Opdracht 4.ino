@@ -1,7 +1,7 @@
 // Definieer de pin voor de potentiometer
 const int potPin = A5;
 // Definieer de pins voor de LEDs
-const int led[] = {13, 12, 10, 9, 7, 6};
+const int led[] = {13, 12, 10, 9, 7, 6}; // Veel LEDs dus in een array
 
 // Variabelen voor de potmeterwaarde en de teller
 int potmeterWaarde = 0;

@@ -10,8 +10,14 @@
 
 - 2 LED lampen
 - 2 resistors 22&#937;
+- 8 bedradingen
+- 1 Arduino
+- 1 USB kabel
+- breadboard
 
 ![Opdracht 1.png](img/Opdracht1.png)
+
+Bron: powerpoint Startworkshop
 
 
 # Opdracht 2
@@ -25,8 +31,14 @@
 
 - 8 LED lampen
 - 8 resistors 22&#937;
+- 20 bedradingen
+- 1 Arduino
+- 1 USB kabel
+- breadboard
 
 ![Opdracht 2.png](img/Opdracht2.png)
+
+Bron: powerpoint Startworkshop
 
 # Opdracht 3
 
@@ -45,8 +57,14 @@
 - 1 drukknop
 - 2 resistors 22&#937;
 - 1 resistor 10K&#937;
+- 8 bedradingen
+- 1 Arduino
+- 1 USB kabel
+- breadboard
 
 ![Opdracht 3.png](img/Opdracht3.png)
+
+Bron: powerpoint Startworkshop
 
 # Opdracht 4
 
@@ -61,8 +79,14 @@ Je mag zelf de uitgangen kiezen waar de LED’s op worden aangesloten, je mag oo
 - 6 LED lampen
 - 6 resistors 22&#937;
 - 1 potmeter
+- 17 bedradingen
+- 1 Arduino
+- 1 USB kabel
+- breadboard
 
 ![Opdracht 4.png](img/Opdracht4.png)
+
+Bron: powerpoint Vervolgworkshop
 
 # Opdracht 5
 
@@ -81,5 +105,38 @@ Als de servomotor zijn uiterste stand heeft bereikt dan moet hij terugdraaien, o
 - 2 drukknoppen
 - 1 servomotor
 - 2 resistors 10K&#937;
+- 10 bedradingen
+- 1 Arduino
+- 1 USB kabel
+- breadboard
 
 ![Opdracht 5.png](img/Opdracht5.png)
+
+Bron: powerpoint Vervolgworkshop
+
+# Opdracht 6
+Maak een schakeling en een sketch waarbij: 
+
+- Een servomotor in rust op 0⁰ staat. 
+- Als een object binnen 10 cm van de ultrasoon zender / ontvanger komt, dan staat de motor linksom. 
+- Als het object op 4 cm staat, staat de servo volledig rechtsom ( 180⁰ ). 
+- Alle afstanden hiertussen zullen een bijbehorende hoek krijgen. 
+
+- Doe dus eerst onderzoek naar hoe deze sensor werkt. Deze zit niet in jouw kitje, dus kom deze bij de docent halen. 
+Deze zit wel standaard in Tinkercad.
+
+## Componenten
+
+- 1 ultrasoon sensor
+- 1 servomotor
+- 1 doos als object
+- 10 bedradingen
+- 1 Arduino
+- 1 USB kabel
+- breadboard
+
+![Opdracht 6.png](img/Opdracht6.png)
+
+Bron: https://www.tinkercad.com/things/euLnGXfzpMk-ultrasonic-distance-sensor-with-servo-motor
+
+
